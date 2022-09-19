@@ -9,10 +9,10 @@ This project was motivation in itself, as accessibilty is something that is very
 
 
 
-    !screenshot 1(assets/images/challenge_1-1.png)
+    ![screenshot 1](assets/images/challenge_1-1.png)
     
     
-    !screenshot 2(assets/images/challenge_1-2.png)
+    ![screenshot 2](assets/images/challenge_1-2.png)
 
 
 ## License
